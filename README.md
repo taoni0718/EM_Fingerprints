@@ -5,4 +5,4 @@ Anonymous artifact submission to ACM CCS 2023 for paper "Spoofing In-display Fin
 
 Attack OnePlus 10 Pro | Attack Xiaomi Redmi K20 Pro
 :-: | :-:
-<video src='video1.mov' width=180/> | <video src='video2.mp4' width=180/>
+<video src='demo_videos/oneplus_demo1.mp4' width=180/> | <video src='demo_videos/oneplus_demo1.mp4' width=180/>
