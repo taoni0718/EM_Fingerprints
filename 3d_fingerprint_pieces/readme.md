@@ -1,0 +1,3 @@
+### Each 3D fingerprint model is nearly 31Mb, which exceeds the limitations of a GitHub repo.
+
+### More details will be released...
